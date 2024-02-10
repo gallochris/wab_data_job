@@ -1,10 +1,9 @@
 name: Update WAB data
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'  # Runs every day at 4 am EST or 9 am UTC? 
-    
+    - cron: '0 9 * * *'  # Runs every day at 4 am EST or 9 am UTC?
+
 jobs:
   update:
     runs-on: macos-latest
