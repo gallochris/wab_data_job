@@ -2,7 +2,7 @@ name: Update WAB data
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Runs every day at 4 am EST or 9 am UTC?
+    - cron: '0 10 * * *'  # Runs every day at 5 am EST or 10 am UTC
 
 jobs:
   update:
