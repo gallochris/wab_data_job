@@ -11,7 +11,7 @@ barts <- cbbdata::cbd_torvik_ratings(year = "2024") |>
   dplyr::add_row(team = "BubTeam", # define the bubble team
                  barthag = .849, # should consider updating
                  adj_o = 114.5, # and tuning this over time
-                 adj_d = 99.8) |>
+                 adj_d = 99.87) |>
   dplyr::mutate(
     oHome = adj_o * (1 + hcMultiplier),
     dHome = adj_d * (1 - hcMultiplier),
