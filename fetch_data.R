@@ -93,11 +93,7 @@ sched_with_rtg <- all_team_sched |>
       result == "L" ~ (0 - bub_win_prob),
     ),
     wab_opp = 1 - bub_win_prob,
-    score = dplyr::if_else(
-      result == "W",
-      paste0(pts_scored, "-", pts_allowed),
-      paste0(pts_allowed, "-", pts_scored)
-    )
+    score = paste0(pts_scored, "-", pts_allowed),
   ) |>
   dplyr::select(
     date,
