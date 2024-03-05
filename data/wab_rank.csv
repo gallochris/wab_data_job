@@ -6,358 +6,358 @@
 "5","Arizona",7,4
 "6","North Carolina",5,13
 "7","Marquette",6,9
-"8","Duke",15,8
-"9","Creighton",12,12
-"10","Kansas",9,11
-"11","Illinois",14,15
-"12","Alabama",13,10
-"13","Baylor",10,14
-"14","Iowa St.",8,6
+"8","Duke",12,8
+"9","Creighton",13,12
+"10","Kansas",10,11
+"11","Baylor",8,15
+"12","Illinois",15,16
+"13","Alabama",14,10
+"14","Iowa St.",9,6
 "15","Kentucky",22,20
 "16","BYU",21,18
 "17","Auburn",16,5
-"18","Gonzaga",23,16
-"19","Clemson",31,29
+"18","Clemson",31,29
+"19","Gonzaga",23,14
 "20","San Diego St.",18,24
-"21","Texas",33,23
-"22","Washington St.",20,42
-"23","Wisconsin",32,27
+"21","Wisconsin",32,27
+"22","Texas",35,22
+"23","Washington St.",20,42
 "24","Boise St.",40,34
 "25","Dayton",19,33
 "26","Villanova",63,25
-"27","Florida",26,22
+"27","Florida",26,23
 "28","Michigan St.",57,19
 "29","Texas Tech",28,39
 "30","Saint Mary's",48,17
-"31","South Carolina",11,41
-"32","Mississippi St.",37,30
-"33","Oklahoma",35,37
-"34","Nevada",24,40
-"35","St. John's",61,21
+"31","Mississippi St.",36,30
+"32","South Carolina",11,41
+"33","Oklahoma",34,37
+"34","St. John's",60,21
+"35","Nevada",24,40
 "36","Utah St.",17,50
 "37","Northwestern",29,36
-"38","TCU",39,35
-"39","Nebraska",30,28
+"38","Nebraska",30,28
+"39","TCU",39,35
 "40","Colorado St.",42,38
 "41","Florida Atlantic",41,54
 "42","Seton Hall",47,53
-"43","Colorado",50,31
-"44","Virginia",36,56
-"45","Utah",55,44
+"43","Colorado",49,31
+"44","Wake Forest",65,26
+"45","Virginia",37,56
 "46","Indiana St.",25,43
-"47","James Madison",34,69
-"48","Princeton",27,86
-"49","Grand Canyon",43,78
-"50","McNeese St.",46,80
-"51","South Florida",44,92
-"52","Samford",60,87
-"53","UC Irvine",79,79
+"47","James Madison",33,69
+"48","Princeton",27,85
+"49","Grand Canyon",43,77
+"50","McNeese St.",46,86
+"51","South Florida",45,92
+"52","Samford",61,87
+"53","UC Irvine",79,78
 "54","Vermont",73,101
 "55","Louisiana Tech",86,73
 "56","College of Charleston",80,102
-"57","Akron",92,116
+"57","Akron",92,117
 "58","High Point",93,121
-"59","Oakland",113,138
-"60","Morehead St.",99,132
+"59","Oakland",113,137
+"60","Morehead St.",100,134
 "61","Colgate",106,158
-"62","Eastern Washington",105,147
+"62","Eastern Washington",103,149
 "63","Lipscomb",142,210
 "64","Quinnipiac",116,164
-"65","South Dakota St.",171,148
-"66","Norfolk St.",137,265
-"67","Southern",148,235
-"68","Fairleigh Dickinson",296,330
-"69","Wake Forest",65,26
-"70","Pittsburgh",62,46
+"65","South Dakota St.",171,146
+"66","Norfolk St.",136,263
+"67","Grambling St.",165,295
+"68","Fairleigh Dickinson",294,329
+"69","Pittsburgh",62,46
+"70","Utah",55,44
 "71","Iowa",52,45
 "72","New Mexico",51,32
 "73","Providence",56,66
 "74","Cincinnati",69,48
-"75","Drake",45,49
-"76","Kansas St.",64,68
-"77","Ohio St.",68,47
+"75","Drake",44,49
+"76","Ohio St.",68,47
+"77","Kansas St.",64,68
 "78","Texas A&M",72,64
 "79","Butler",66,58
-"80","Memphis",54,93
-"81","Syracuse",49,74
-"82","Mississippi",38,59
-"83","UNLV",83,72
-"84","Oregon",58,60
+"80","Memphis",54,94
+"81","Syracuse",50,74
+"82","UNLV",82,72
+"83","Mississippi",38,60
+"84","Oregon",58,59
 "85","Virginia Tech",77,52
-"86","Appalachian St.",59,94
+"86","Appalachian St.",59,93
 "87","Richmond",53,70
 "88","Minnesota",74,67
-"89","North Carolina St.",84,76
-"90","SMU",89,51
-"91","Xavier",78,61
+"89","SMU",89,51
+"90","Xavier",78,62
+"91","North Carolina St.",85,79
 "92","UCF",91,65
 "93","Bradley",90,57
-"94","VCU",87,85
-"95","St. Bonaventure",88,84
-"96","San Francisco",81,77
+"94","VCU",87,84
+"95","St. Bonaventure",88,83
+"96","San Francisco",81,76
 "97","Loyola Chicago",71,91
-"98","LSU",85,71
-"99","Yale",76,75
+"98","Yale",76,75
+"99","LSU",84,71
 "100","Indiana",70,95
-"101","Washington",100,62
-"102","Maryland",102,55
-"103","Cornell",67,108
-"104","Massachusetts",104,81
+"101","Washington",99,61
+"102","Maryland",101,55
+"103","Cornell",67,107
+"104","Massachusetts",105,80
 "105","Saint Joseph's",107,100
 "106","Duquesne",94,98
-"107","Rutgers",82,97
-"108","Miami FL",95,82
-"109","Santa Clara",103,125
-"110","Florida St.",96,88
-"111","George Mason",108,104
+"107","Rutgers",83,97
+"108","Miami FL",95,81
+"109","Santa Clara",104,125
+"110","George Mason",108,104
+"111","Florida St.",96,88
 "112","UNC Wilmington",98,120
-"113","Charlotte",110,103
-"114","Georgia",97,83
-"115","Northern Iowa",121,105
+"113","Charlotte",109,103
+"114","Northern Iowa",121,105
+"115","Georgia",97,82
 "116","North Texas",122,63
-"117","Western Carolina",109,109
+"117","Western Carolina",110,109
 "118","Boston College",118,110
-"119","UAB",101,134
+"119","UAB",102,135
 "120","Southern Illinois",127,114
 "121","Belmont",112,112
-"122","Penn St.",119,90
-"123","Drexel",130,123
-"124","Hofstra",132,117
+"122","Penn St.",120,90
+"123","Drexel",129,123
+"124","Hofstra",131,116
 "125","Arkansas",115,119
-"126","Georgia Tech",126,130
-"127","UNC Greensboro",117,129
-"128","Weber St.",129,155
-"129","Arizona St.",111,122
-"130","Seattle",144,131
-"131","UCLA",120,96
+"126","UNC Greensboro",117,130
+"127","Arizona St.",111,122
+"128","Georgia Tech",126,129
+"129","Seattle",144,131
+"130","Weber St.",141,160
+"131","UCLA",119,96
 "132","Youngstown St.",123,127
-"133","UMass Lowell",114,154
+"133","UMass Lowell",114,153
 "134","Troy",143,113
 "135","Davidson",146,111
-"136","Chattanooga",136,150
-"137","UNC Asheville",134,145
+"136","Chattanooga",135,151
+"137","UNC Asheville",133,147
 "138","Bryant",145,168
-"139","Toledo",131,160
-"140","USC",139,89
-"141","Oklahoma St.",140,99
+"139","Toledo",130,159
+"140","USC",138,89
+"141","Oklahoma St.",139,99
 "142","California",147,115
 "143","Liberty",150,139
-"144","Towson",152,142
-"145","Sam Houston St.",128,146
-"146","UT Arlington",141,135
-"147","Missouri St.",168,161
-"148","Delaware",182,165
-"149","Stanford",158,106
-"150","Western Kentucky",135,144
+"144","Towson",152,141
+"145","Sam Houston St.",128,145
+"146","Missouri St.",168,161
+"147","UT Arlington",140,133
+"148","Stanford",158,106
+"149","Western Kentucky",134,144
+"150","Delaware",181,165
 "151","Louisiana Lafayette",169,128
 "152","Notre Dame",156,124
-"153","Wright St.",183,143
-"154","Montana",124,159
+"153","Montana",124,155
+"154","Wright St.",182,143
 "155","Fort Wayne",161,169
-"156","Long Beach St.",151,198
-"157","Ohio",191,157
-"158","Fairfield",166,178
-"159","Texas A&M Corpus Chris",133,162
+"156","Long Beach St.",151,195
+"157","Ohio",189,157
+"158","Fairfield",166,179
+"159","Texas A&M Corpus Chris",132,162
 "160","Monmouth",170,191
-"161","Tulane",188,151
-"162","Harvard",149,208
-"163","Cleveland St.",179,222
+"161","Tulane",187,150
+"162","Cleveland St.",178,224
+"163","Harvard",149,205
 "164","Oregon St.",157,156
-"165","Arkansas St.",193,141
-"166","Furman",220,153
-"167","Wofford",175,214
-"168","Hawaii",192,177
-"169","Tennessee Martin",138,237
-"170","Saint Peter's",163,197
-"171","Stony Brook",172,167
-"172","Merrimack",153,202
-"173","Stetson",155,233
-"174","Winthrop",189,152
-"175","Illinois St.",208,190
-"176","Wichita St.",229,136
-"177","La Salle",187,173
-"178","West Virginia",180,126
-"179","Northern Kentucky",197,196
-"180","Stephen F. Austin",205,185
-"181","UC Davis",178,176
-"182","Michigan",181,118
-"183","Marist",185,207
-"184","Wyoming",154,171
-"185","Longwood",202,193
-"186","Tulsa",190,212
-"187","Central Connecticut",159,259
-"188","Kent St.",214,174
-"189","Little Rock",199,170
-"190","Evansville",194,228
-"191","Gardner Webb",204,175
-"192","East Carolina",203,163
-"193","Green Bay",177,249
-"194","Eastern Kentucky",184,179
-"195","East Tennessee St.",210,194
-"196","Utah Valley",211,182
-"197","Northern Colorado",176,195
-"198","George Washington",198,226
-"199","Austin Peay",215,245
-"200","Fordham",237,184
-"201","San Diego",162,254
-"202","Cal St. Northridge",195,252
-"203","UC Santa Barbara",200,230
-"204","Central Michigan",164,267
-"205","Murray St.",264,133
-"206","Missouri",227,137
-"207","New Hampshire",174,287
-"208","Western Illinois",160,246
-"209","Iona",243,192
-"210","Milwaukee",213,250
-"211","Bowling Green",196,240
-"212","UTEP",234,166
-"213","Cal Baptist",232,200
-"214","Abilene Christian",217,217
-"215","Southern Miss",222,247
-"216","Miami OH",219,219
-"217","Columbia",206,187
-"218","Nicholls St.",167,271
-"219","Lamar",212,242
-"220","North Carolina Central",173,234
-"221","Saint Louis",233,188
-"222","Penn",236,186
-"223","North Dakota",207,220
-"224","South Alabama",225,216
+"165","Arkansas St.",192,142
+"166","Furman",219,154
+"167","Saint Peter's",164,201
+"168","Hawaii",190,176
+"169","Wofford",174,217
+"170","Tennessee Martin",137,238
+"171","Merrimack",153,202
+"172","Stony Brook",172,167
+"173","Stetson",155,235
+"174","Illinois St.",207,190
+"175","Wichita St.",229,136
+"176","Winthrop",188,152
+"177","La Salle",186,171
+"178","West Virginia",179,126
+"179","Stephen F. Austin",204,185
+"180","Northern Kentucky",198,196
+"181","UC Davis",177,175
+"182","Michigan",180,118
+"183","Marist",184,207
+"184","Wyoming",154,172
+"185","Longwood",201,197
+"186","Tulsa",191,212
+"187","Evansville",193,228
+"188","Southern",148,231
+"189","Kent St.",213,174
+"190","Central Connecticut",159,260
+"191","Little Rock",200,170
+"192","East Carolina",202,163
+"193","Green Bay",176,249
+"194","Northern Colorado",175,192
+"195","Gardner Webb",203,177
+"196","East Tennessee St.",209,194
+"197","Eastern Kentucky",183,181
+"198","George Washington",197,226
+"199","Utah Valley",210,182
+"200","Fordham",237,183
+"201","Austin Peay",214,244
+"202","San Diego",162,256
+"203","Murray St.",262,132
+"204","Cal St. Northridge",194,251
+"205","UC Santa Barbara",199,230
+"206","Central Michigan",163,268
+"207","Western Illinois",160,245
+"208","New Hampshire",173,289
+"209","Missouri",227,138
+"210","Iona",244,193
+"211","Milwaukee",212,250
+"212","Bowling Green",195,239
+"213","UTEP",234,166
+"214","Cal Baptist",231,200
+"215","Nicholls St.",167,269
+"216","Abilene Christian",218,218
+"217","Lamar",211,232
+"218","Southern Miss",222,246
+"219","Columbia",205,187
+"220","Miami OH",217,219
+"221","Saint Louis",232,188
+"222","North Dakota",206,221
+"223","Penn",236,186
+"224","South Alabama",225,215
 "225","Mercer",247,213
-"226","Loyola Marymount",250,172
-"227","Georgetown",209,180
-"228","Georgia St.",242,223
-"229","Maine",253,244
-"230","Texas St.",224,224
-"231","Rhode Island",241,201
-"232","Rider",230,215
-"233","Brown",273,209
-"234","Jacksonville St.",259,206
-"235","Rice",249,183
-"236","Radford",235,204
-"237","Cal St. Fullerton",226,231
-"238","Fresno St.",221,225
-"239","Binghamton",216,266
-"240","North Florida",238,236
-"241","Illinois Chicago",292,181
-"242","Vanderbilt",231,218
-"243","Temple",257,199
-"244","Portland St.",223,263
-"245","UMKC",228,189
-"246","Louisville",246,205
-"247","Grambling St.",165,301
-"248","Niagara",240,269
-"249","Canisius",266,255
-"250","American",263,270
-"251","Florida Gulf Coast",282,239
-"252","Kennesaw St.",261,268
-"253","Northeastern",301,211
-"254","North Dakota St.",251,258
-"255","Mount St. Mary's",289,203
+"226","Loyola Marymount",249,173
+"227","Georgia St.",243,223
+"228","Georgetown",208,178
+"229","Rider",230,216
+"230","Maine",252,243
+"231","Texas St.",224,222
+"232","Rhode Island",241,199
+"233","North Carolina Central",196,248
+"234","Brown",270,209
+"235","Jacksonville St.",259,206
+"236","Radford",235,208
+"237","Rice",248,184
+"238","Portland St.",223,252
+"239","Cal St. Fullerton",226,233
+"240","Fresno St.",220,225
+"241","Illinois Chicago",290,180
+"242","UMKC",228,189
+"243","North Florida",239,237
+"244","Binghamton",216,266
+"245","Vanderbilt",233,220
+"246","Temple",257,198
+"247","Louisville",245,204
+"248","Niagara",240,270
+"249","Canisius",263,257
+"250","Mount St. Mary's",287,203
+"251","American",261,271
+"252","Southeastern Louisiana",215,279
+"253","North Dakota St.",250,259
+"254","Tennessee St.",238,297
+"255","Northeastern",299,211
 "256","North Alabama",258,273
-"257","Tennessee St.",239,296
-"258","Texas Southern",201,280
-"259","UTSA",288,241
-"260","Southeastern Louisiana",218,288
-"261","UC Riverside",252,232
-"262","Albany",281,260
-"263","Ball St.",271,261
-"264","Cal St. Bakersfield",276,243
+"257","UTSA",286,240
+"258","UC Riverside",251,234
+"259","Ball St.",268,262
+"260","Albany",277,261
+"261","Howard",256,267
+"262","Cal St. Bakersfield",272,242
+"263","Florida Gulf Coast",303,241
+"264","Montana St.",295,214
 "265","Pepperdine",260,227
-"266","Howard",256,274
-"267","SIU Edwardsville",254,289
-"268","Air Force",274,238
-"269","Sacred Heart",272,290
-"270","Marshall",304,248
-"271","Montana St.",300,221
-"272","Northern Arizona",269,319
-"273","Denver",268,277
-"274","Jackson St.",248,294
-"275","South Carolina St.",255,293
-"276","Bethune Cookman",245,309
-"277","Boston University",299,299
-"278","Jacksonville",262,315
-"279","Presbyterian",297,285
-"280","Alcorn St.",244,292
-"281","San Jose St.",287,229
-"282","Middle Tennessee",283,275
-"283","New Mexico St.",270,284
-"284","Bucknell",308,282
-"285","Campbell",290,298
-"286","Nebraska Omaha",285,262
-"287","Delaware St.",265,297
-"288","Idaho St.",311,251
-"289","Chicago St.",284,303
-"290","Lehigh",298,264
-"291","Elon",291,307
-"292","Wagner",277,308
-"293","The Citadel",318,281
-"294","Western Michigan",306,318
-"295","Louisiana Monroe",279,295
-"296","Oral Roberts",294,286
-"297","Northern Illinois",303,304
-"298","UMBC",320,256
+"266","Kennesaw St.",280,276
+"267","Air Force",271,236
+"268","SIU Edwardsville",254,290
+"269","Texas Southern",221,288
+"270","Sacred Heart",269,292
+"271","Marshall",304,247
+"272","Jackson St.",246,294
+"273","South Carolina St.",253,296
+"274","Jacksonville",255,309
+"275","Denver",265,278
+"276","Boston University",298,299
+"277","Alcorn St.",242,287
+"278","Northern Arizona",283,319
+"279","Presbyterian",296,285
+"280","San Jose St.",285,229
+"281","Middle Tennessee",278,274
+"282","Bucknell",308,281
+"283","New Mexico St.",267,284
+"284","Bethune Cookman",266,312
+"285","Campbell",288,298
+"286","Nebraska Omaha",284,265
+"287","Chicago St.",282,303
+"288","Lehigh",297,264
+"289","Elon",289,305
+"290","Wagner",274,307
+"291","Idaho St.",315,255
+"292","The Citadel",316,282
+"293","Western Michigan",306,318
+"294","Oral Roberts",292,286
+"295","Louisiana Monroe",276,293
+"296","Delaware St.",279,301
+"297","Northern Illinois",300,302
+"298","UMBC",317,258
 "299","FIU",309,283
-"300","Eastern Illinois",278,313
-"301","Southern Utah",316,253
-"302","Portland",295,279
-"303","USC Upstate",312,278
-"304","Alabama St.",275,320
-"305","Navy",314,327
-"306","Eastern Michigan",307,329
-"307","Arkansas Pine Bluff",267,331
-"308","Lafayette",328,316
-"309","Charleston Southern",302,322
-"310","Idaho",319,302
-"311","South Dakota",322,314
-"312","Robert Morris",330,312
-"313","Prairie View A&M",313,348
-"314","Georgia Southern",334,276
-"315","Valparaiso",332,291
-"316","Alabama A&M",327,341
-"317","Northwestern St.",323,310
+"300","Eastern Illinois",275,313
+"301","Southern Utah",314,253
+"302","Portland",293,277
+"303","USC Upstate",311,280
+"304","Alabama St.",273,320
+"305","Navy",312,327
+"306","Eastern Michigan",307,328
+"307","Arkansas Pine Bluff",264,330
+"308","Lafayette",324,315
+"309","Charleston Southern",301,323
+"310","South Dakota",319,314
+"311","Robert Morris",330,311
+"312","Idaho",321,308
+"313","Georgia Southern",334,275
+"314","Valparaiso",332,291
+"315","Prairie View A&M",318,348
+"316","Alabama A&M",323,341
+"317","Morgan St.",313,334
 "318","Coastal Carolina",333,317
-"319","Old Dominion",346,300
+"319","Old Dominion",345,300
 "320","NJIT",331,326
-"321","Morgan St.",315,339
-"322","DePaul",310,311
-"323","William & Mary",342,321
-"324","Sacramento St.",337,323
-"325","Army",349,335
-"326","Maryland Eastern Shore",317,353
-"327","Tennessee Tech",335,347
-"328","Dartmouth",325,336
-"329","LIU Brooklyn",336,344
-"330","Incarnate Word",340,340
-"331","Manhattan",329,343
-"332","UT Rio Grande Valley",339,333
-"333","North Carolina A&T",343,338
-"334","New Orleans",324,332
-"335","Holy Cross",350,351
-"336","Florida A&M",321,342
-"337","Central Arkansas",351,334
-"338","Hampton",352,325
-"339","St. Francis PA",341,360
-"340","Southeast Missouri St.",347,352
-"341","Houston Christian",326,355
-"342","Loyola MD",353,337
-"343","Pacific",348,346
-"344","Buffalo",355,345
-"345","Siena",356,356
-"346","Cal Poly",361,349
-"347","IUPUI",357,359
-"348","Coppin St.",354,361
+"321","Northwestern St.",329,316
+"322","DePaul",310,310
+"323","Army",348,337
+"324","William & Mary",340,321
+"325","Tennessee Tech",335,347
+"326","Dartmouth",322,336
+"327","Sacramento St.",344,322
+"328","Manhattan",328,342
+"329","Maryland Eastern Shore",320,354
+"330","North Carolina A&T",341,339
+"331","UT Rio Grande Valley",338,333
+"332","Holy Cross",350,351
+"333","LIU Brooklyn",336,343
+"334","Central Arkansas",351,335
+"335","New Orleans",327,331
+"336","Incarnate Word",349,340
+"337","St. Francis PA",339,360
+"338","Florida A&M",325,345
+"339","Hampton",352,325
+"340","Southeast Missouri St.",346,353
+"341","Loyola MD",353,338
+"342","Houston Christian",326,352
+"343","Pacific",347,346
+"344","Buffalo",354,344
+"345","Cal Poly",361,349
+"346","Siena",355,356
+"347","IUPUI",356,359
+"348","Coppin St.",358,361
 "349","VMI",359,357
-"350","Mississippi Valley St.",358,362
+"350","Mississippi Valley St.",357,362
 "351","Detroit",362,350
-"352","UC San Diego",NA,107
-"353","Tarleton St.",NA,149
+"352","UC San Diego",NA,108
+"353","Tarleton St.",NA,148
 "354","St. Thomas",NA,140
-"355","Queens",NA,257
+"355","Queens",NA,254
 "356","Utah Tech",NA,272
 "357","Le Moyne",NA,306
-"358","Bellarmine",NA,305
+"358","Bellarmine",NA,304
 "359","Southern Indiana",NA,324
-"360","Texas A&M Commerce",NA,328
-"361","Lindenwood",NA,354
+"360","Texas A&M Commerce",NA,332
+"361","Lindenwood",NA,355
 "362","Stonehill",NA,358
