@@ -63,7 +63,7 @@
 "62","Colgate",106,158
 "63","Quinnipiac",115,164
 "64","South Dakota St.",171,147
-"65","Stetson",152,225
+"65","Stetson",152,226
 "66","Norfolk St.",136,263
 "67","Grambling St.",163,294
 "68","Fairleigh Dickinson",291,329
@@ -171,7 +171,7 @@
 "170","Wofford",173,215
 "171","Tennessee Martin",137,236
 "172","Stony Brook",172,168
-"173","Wichita St.",226,136
+"173","Wichita St.",227,136
 "174","Illinois St.",206,189
 "175","Harvard",167,213
 "176","Winthrop",185,152
@@ -216,7 +216,7 @@
 "215","Nicholls St.",165,271
 "216","Southern Miss",222,248
 "217","Abilene Christian",215,216
-"218","New Hampshire",192,283
+"218","New Hampshire",192,282
 "219","Columbia",203,186
 "220","Texas St.",221,224
 "221","Penn",234,185
@@ -227,7 +227,7 @@
 "226","Loyola Marymount",247,171
 "227","Mercer",245,212
 "228","Georgia St.",241,222
-"229","Rider",227,214
+"229","Rider",226,214
 "230","Rhode Island",238,199
 "231","Saint Louis",244,190
 "232","Portland St.",220,251
@@ -261,7 +261,7 @@
 "260","Howard",255,267
 "261","Montana St.",292,210
 "262","Cal St. Bakersfield",271,243
-"263","Pepperdine",259,226
+"263","Pepperdine",259,225
 "264","SIU Edwardsville",252,292
 "265","Texas Southern",217,289
 "266","Albany",296,261
@@ -293,14 +293,14 @@
 "292","The Citadel",316,284
 "293","Oral Roberts",290,288
 "294","Delaware St.",276,301
-"295","FIU",307,282
+"295","FIU",307,283
 "296","Eastern Michigan",298,326
 "297","Western Michigan",311,318
 "298","Eastern Illinois",274,314
 "299","Northern Illinois",309,305
 "300","Louisiana Monroe",299,296
 "301","Navy",310,325
-"302","UMBC",323,258
+"302","UMBC",323,259
 "303","Southern Utah",314,252
 "304","Alabama St.",272,320
 "305","Portland",288,277
@@ -353,7 +353,7 @@
 "352","UC San Diego",NA,108
 "353","Tarleton St.",NA,149
 "354","St. Thomas",NA,139
-"355","Queens",NA,259
+"355","Queens",NA,258
 "356","Utah Tech",NA,274
 "357","Le Moyne",NA,307
 "358","Bellarmine",NA,303
