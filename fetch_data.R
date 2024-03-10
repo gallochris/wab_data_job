@@ -5,13 +5,13 @@ cbbdata::cbd_login(username = Sys.getenv("CBD_USER"),
 # Home court is 1.014% per torvik: http://adamcwisports.blogspot.com/p/every-possession-counts.html
 hcMultiplier <- 0.014
 
-# Add the efficiency ratings
+# Add the efficiency ratingsxq
 barts <- cbbdata::cbd_torvik_ratings(year = "2024") |>
   dplyr::select(team, barthag, adj_o, adj_d) |>
   dplyr::add_row(team = "BubTeam", # define the bubble team
                  barthag = .849, # should consider updating
-                 adj_o = 114.65, # and tuning this over time
-                 adj_d = 99.88) |>
+                 adj_o = 115.05, # and tuning this over time
+                 adj_d = 99.99) |>
   dplyr::mutate(
     oHome = adj_o * (1 + hcMultiplier),
     dHome = adj_d * (1 - hcMultiplier),
