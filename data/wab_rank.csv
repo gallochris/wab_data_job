@@ -20,7 +20,7 @@
 "19","Texas Tech",21,29
 "20","Gonzaga",23,14
 "21","Clemson",34,26
-"22","South Carolina",11,40
+"22","South Carolina",11,39
 "23","Nevada",20,34
 "24","San Diego St.",27,25
 "25","Boise St.",39,37
@@ -42,7 +42,7 @@
 "41","Texas A&M",62,48
 "42","Colorado St.",40,41
 "43","Mississippi St.",54,38
-"44","Indiana St.",26,39
+"44","Indiana St.",26,40
 "45","Virginia",38,55
 "46","Drake",29,47
 "47","Pittsburgh",50,46
@@ -139,7 +139,7 @@
 "138","UMass Lowell",122,167
 "139","Arizona St.",125,122
 "140","Towson",138,142
-"141","Youngstown St.",130,134
+"141","Youngstown St.",130,135
 "142","Stanford",146,102
 "143","UT Arlington",132,126
 "144","Troy",151,116
@@ -159,7 +159,7 @@
 "158","Stony Brook",156,166
 "159","Louisiana Lafayette",176,139
 "160","Fairfield",150,180
-"161","UC Davis",159,161
+"161","UC Davis",159,162
 "162","Texas A&M Corpus Chris",129,164
 "163","Notre Dame",161,131
 "164","Tulane",186,148
@@ -199,7 +199,7 @@
 "198","Nicholls St.",157,252
 "199","Northern Colorado",190,200
 "200","San Diego",164,253
-"201","East Carolina",217,162
+"201","East Carolina",217,161
 "202","UTEP",218,168
 "203","Central Connecticut",169,274
 "204","Cal St. Northridge",205,249
@@ -250,11 +250,11 @@
 "249","Louisville",262,209
 "250","Ball St.",272,260
 "251","Fresno St.",231,245
-"252","Canisius",268,265
+"252","Canisius",268,264
 "253","Montana St.",278,212
 "254","Tennessee St.",238,291
 "255","Pepperdine",265,193
-"256","North Dakota St.",251,263
+"256","North Dakota St.",251,265
 "257","Northeastern",299,208
 "258","Texas Southern",207,284
 "259","Jackson St.",225,298
@@ -282,7 +282,7 @@
 "281","South Carolina St.",259,292
 "282","San Jose St.",287,227
 "283","Boston University",303,288
-"284","Nebraska Omaha",266,264
+"284","Nebraska Omaha",266,263
 "285","Idaho St.",310,240
 "286","Southeastern Louisiana",249,303
 "287","Chicago St.",271,305
@@ -307,7 +307,7 @@
 "306","USC Upstate",312,281
 "307","Charleston Southern",304,323
 "308","Lafayette",325,322
-"309","Arkansas Pine Bluff",289,330
+"309","Arkansas Pine Bluff",289,331
 "310","Georgia Southern",335,270
 "311","Robert Morris",330,316
 "312","South Dakota",320,317
@@ -352,12 +352,12 @@
 "351","Mississippi Valley St.",360,362
 "352","UC San Diego",NA,123
 "353","Tarleton St.",NA,146
-"354","St. Thomas",NA,135
+"354","St. Thomas",NA,134
 "355","Queens",NA,258
 "356","Utah Tech",NA,280
 "357","Le Moyne",NA,304
 "358","Bellarmine",NA,302
-"359","Texas A&M Commerce",NA,331
+"359","Texas A&M Commerce",NA,330
 "360","Southern Indiana",NA,325
 "361","Lindenwood",NA,355
 "362","Stonehill",NA,357
