@@ -2,7 +2,7 @@ name: Update WAB data
 
 on:
   schedule:
-    - cron: '0 * */2 * *' # Runs every two hours
+    - cron: '5 */4 * * *' # Runs on the fifth minute of every sixth hour
 
 jobs:
   update:
