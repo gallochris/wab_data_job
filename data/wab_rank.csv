@@ -19,34 +19,34 @@
 "18","Auburn",15,5
 "19","Saint Mary's",35,13
 "20","Texas Tech",22,29
-"21","Gonzaga",23,15
-"22","Texas",41,20
-"23","South Carolina",11,40
-"24","Boise St.",39,37
-"25","Nevada",19,33
-"26","Wisconsin",30,28
-"27","San Diego St.",27,25
-"28","Clemson",45,36
-"29","Florida",34,22
-"30","Dayton",20,35
-"31","Utah St.",16,51
+"21","South Carolina",11,40
+"22","Boise St.",39,37
+"23","Nevada",19,33
+"24","Wisconsin",30,28
+"25","San Diego St.",27,25
+"26","Clemson",45,36
+"27","Utah St.",16,51
+"28","Florida",34,22
+"29","Gonzaga",23,15
+"30","Texas",41,20
+"31","Dayton",20,35
 "32","Washington St.",28,46
 "33","Nebraska",24,24
 "34","Michigan St.",58,21
 "35","TCU",38,30
-"36","Seton Hall",42,52
-"37","Northwestern",32,32
-"38","St. John's",50,23
-"39","Oklahoma",43,47
-"40","Florida Atlantic",31,53
-"41","Colorado",40,27
-"42","Colorado St.",36,44
-"43","Kansas St.",47,64
-"44","Texas A&M",61,49
-"45","Cincinnati",64,39
-"46","Mississippi St.",55,38
-"47","Virginia",37,54
-"48","Drake",29,48
+"36","Northwestern",32,32
+"37","Colorado St.",36,44
+"38","Seton Hall",42,52
+"39","St. John's",50,23
+"40","Oklahoma",43,47
+"41","Florida Atlantic",31,53
+"42","Colorado",40,27
+"43","Texas A&M",61,49
+"44","Mississippi St.",55,38
+"45","Virginia",37,54
+"46","Kansas St.",47,64
+"47","Drake",29,48
+"48","Indiana St.",26,41
 "49","Princeton",25,74
 "50","James Madison",33,67
 "51","Grand Canyon",44,69
@@ -68,8 +68,8 @@
 "67","Montana St.",269,199
 "68","Grambling St.",168,292
 "69","Wagner",246,287
-"70","Indiana St.",26,41
-"71","Villanova",70,34
+"70","Villanova",70,34
+"71","Cincinnati",64,39
 "72","Wake Forest",71,31
 "73","Pittsburgh",52,45
 "74","New Mexico",48,26
