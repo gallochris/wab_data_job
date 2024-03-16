@@ -10,7 +10,7 @@ barts <- cbbdata::cbd_torvik_ratings(year = "2024") |>
   dplyr::select(team, barthag, adj_o, adj_d) |>
   dplyr::add_row(team = "BubTeam", # define the bubble team
                  barthag = .849, # should consider updating
-                 adj_o = 115.40, # and tuning this over time
+                 adj_o = 115.32, # and tuning this over time
                  adj_d = 99.65) |>
   dplyr::mutate(
     oHome = adj_o * (1 + hcMultiplier),
@@ -191,3 +191,10 @@ clean_played_tbl <- sched_with_rtg |>
   dplyr::select(date, team, conf, opp, opp_conf, location, result, score, wab, quad)
 
 write.csv(clean_played_tbl, "data/clean_played_tbl.csv")
+
+# sched_with_rtg |> 
+# dplyr::group_by(team) |> 
+#  dplyr::summarise(
+#    wab_sum = sum(wab)
+#  ) |> 
+#  dplyr::arrange(-wab_sum) -> wabcheck
