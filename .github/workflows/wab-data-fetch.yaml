@@ -1,9 +1,5 @@
 name: Update WAB data
 
-on:
-  schedule:
-    - cron: '5 */4 * * *' # runs At minute 5 past every 4th hour in UTC
-
 jobs:
   update:
     runs-on: macos-latest
