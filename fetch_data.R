@@ -192,9 +192,3 @@ clean_played_tbl <- sched_with_rtg |>
 
 write.csv(clean_played_tbl, "data/clean_played_tbl.csv")
 
-# sched_with_rtg |> 
-# dplyr::group_by(team) |> 
-#  dplyr::summarise(
-#    wab_sum = sum(wab)
-#  ) |> 
-#  dplyr::arrange(-wab_sum) -> wabcheck
