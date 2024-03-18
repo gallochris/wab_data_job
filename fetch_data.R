@@ -9,9 +9,9 @@ hcMultiplier <- 0.014
 barts <- cbbdata::cbd_torvik_ratings(year = "2024") |>
   dplyr::select(team, barthag, adj_o, adj_d) |>
   dplyr::add_row(team = "BubTeam", # define the bubble team
-                 barthag = .849, # should consider updating
-                 adj_o = 115.32, # and tuning this over time
-                 adj_d = 99.50) |>
+                 barthag = .851, # should consider updating
+                 adj_o = 115.35, # and tuning this over time
+                 adj_d = 99.48) |>
   dplyr::mutate(
     oHome = adj_o * (1 + hcMultiplier),
     dHome = adj_d * (1 - hcMultiplier),
